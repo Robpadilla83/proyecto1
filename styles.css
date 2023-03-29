@@ -1,0 +1,11 @@
+body {
+    font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    border-color: red;
+    padding: 15px;
+}
