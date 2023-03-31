@@ -1,12 +1,22 @@
+header {
+    font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: violet;
+}
 body {
     font-style:oblique;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: blueviolet;
+    background-color: black;
 }
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: aqua;
-    border-color: red;
+    padding: 15px;
+}
+p {
+    font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(239, 10, 239);
     padding: 15px;
 }
 li {
